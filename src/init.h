@@ -17,6 +17,6 @@ bool AppInit2();
 std::string HelpMessage();
 
 // random port number, not used much
-unsigned short const TORPORT = 9060;
+unsigned short const TORPORT = 9061;
 
 #endif
